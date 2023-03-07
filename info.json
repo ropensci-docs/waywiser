@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "2b3f5104f085a4ac69aa4303531b477a19278634",
+    "author": "Michael Mahoney <mike.mahoney.218@gmail.com>",
+    "time": "2023-03-07 16:36:28",
+    "files": 4,
+    "merge": false,
+    "message": "Move rsample to suggests (#26)\n\n"
+  },
+  "repo": "https://github.com/ropensci/waywiser",
+  "pkg": "waywiser"
+}
