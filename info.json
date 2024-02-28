@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d99c56a74ea590d3a88893b7afb44a837c51a0e1",
+    "author": "Mike Mahoney <mike.mahoney.218@gmail.com>",
+    "time": "2023-10-31 16:12:00",
+    "files": 2,
+    "merge": false,
+    "message": "Increment version number to 0.5.1.9000\n"
+  },
+  "repo": "https://github.com/ropensci/waywiser",
+  "pkg": "waywiser"
+}

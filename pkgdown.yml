@@ -1,0 +1,13 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  Feature-Matrix: Feature-Matrix.html
+  multi-scale-assessment: multi-scale-assessment.html
+  residual-autocorrelation: residual-autocorrelation.html
+  waywiser: waywiser.html
+last_built: 2024-02-28T06:41Z
+urls:
+  reference: https://docs.ropensci.org/waywiser/reference
+  article: https://docs.ropensci.org/waywiser/articles
+
